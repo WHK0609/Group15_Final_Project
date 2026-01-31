@@ -1,6 +1,5 @@
 # Group15_Final_Project
-Course materials for data visualization and analysis methods
-RNA-Seq 数据分析及生物学信息可视化研究
+
 
 RNA-Seq 数据分析及生物学信息可视化研究
 
@@ -97,3 +96,4 @@ RNA测序（RNA-Seq）是转录组学研究的核心技术，凭借高通量、�
 📝 备注
 
 本仓库包含完整分析流程及结果可视化图表，可直接用于同类RNA-Seq数据可视化参考或后续机制研究的数据基础，相关代码与原始数据可联系作者获取。
+
